@@ -35,11 +35,15 @@ Gobuster v2.0.1              OJ Reeves (@TheColonial)
 
 =====================================================
 2024/05/21 10:04:38 Starting gobuster
+
 =====================================================
 /images (Status: 301)
+
 /bank-transfer (Status: 200)
+
 =====================================================
 2024/05/21 10:04:44 Finished
+
 =====================================================
 In the command above, -u is used to state the website we're scanning, -w takes a list of words to iterate through to find hidden pages.
 
