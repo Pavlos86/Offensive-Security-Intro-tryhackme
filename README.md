@@ -23,3 +23,5 @@ From this page, an attacker has authorized access and can steal money from any b
 Your mission is to transfer $2000 from bank account 2276 to your account (account number 8881). If your transfer was successful, you should now be able to see your new balance reflected on your account page.
 
 Go there now and confirm you got the money! (You may need to hit Refresh for the changes to appear)
+
+
