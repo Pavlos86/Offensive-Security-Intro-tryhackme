@@ -7,7 +7,6 @@ We will use a command-line application called "Gobuster" to brute-force FakeBank
 # Step 1. Open A Terminal
 
 # Step 2. Use Gobuster To Find Hidden Website Pages
-
 gobuster -u http://fakebank.thm -w wordlist.txt dir
 
 To execute this command without errors, you must be in the same directory where wordlist.txt is located.
