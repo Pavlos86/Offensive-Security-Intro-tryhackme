@@ -13,3 +13,7 @@ gobuster -u http://fakebank.thm -w wordlist.txt dir
 In the command above, -u is used to state the website we're scanning, -w takes a list of words to iterate through to find hidden pages.
 
 You will see that Gobuster scans the website with each word in the list, finding pages that exist on the site. Gobuster will have told you the pages in the list of page/directory names (indicated by Status: 200).
+
+Step 3. Hack The Bank
+
+You should have found a secret bank transfer page that allows you to transfer money between bank accounts (/bank-transfer). Type the hidden page into the FakeBank website using the browser's address bar.
