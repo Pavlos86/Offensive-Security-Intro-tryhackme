@@ -22,10 +22,15 @@ ubuntu@tryhackme:~/Desktop$ gobuster -u http://fakebank.thm -w wordlist.txt dir
 Gobuster v2.0.1              OJ Reeves (@TheColonial)
 =====================================================
 [+] Mode         : dir
+
 [+] Url/Domain   : http://fakebank.thm/
+
 [+] Threads      : 10
+
 [+] Wordlist     : wordlist.txt
+
 [+] Status codes : 200,204,301,302,307,403
+
 [+] Timeout      : 10s
 =====================================================
 2024/05/21 10:04:38 Starting gobuster
