@@ -11,3 +11,5 @@ Step 2. Use Gobuster To Find Hidden Website Pages
 gobuster -u http://fakebank.thm -w wordlist.txt dir
 
 In the command above, -u is used to state the website we're scanning, -w takes a list of words to iterate through to find hidden pages.
+
+You will see that Gobuster scans the website with each word in the list, finding pages that exist on the site. Gobuster will have told you the pages in the list of page/directory names (indicated by Status: 200).
