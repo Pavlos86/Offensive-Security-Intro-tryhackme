@@ -17,3 +17,9 @@ You will see that Gobuster scans the website with each word in the list, finding
 Step 3. Hack The Bank
 
 You should have found a secret bank transfer page that allows you to transfer money between bank accounts (/bank-transfer). Type the hidden page into the FakeBank website using the browser's address bar.
+
+From this page, an attacker has authorized access and can steal money from any bank account. As an ethical hacker, you would (with permission) find vulnerabilities in their application and report them to the bank to fix them before a hacker exploits them.
+
+Your mission is to transfer $2000 from bank account 2276 to your account (account number 8881). If your transfer was successful, you should now be able to see your new balance reflected on your account page.
+
+Go there now and confirm you got the money! (You may need to hit Refresh for the changes to appear)
